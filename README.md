@@ -28,8 +28,9 @@
 - 0. 여러 입점몰의 데이터를 다양한 형태의 UI로 보여줌
 
 ### Technology Stack
-- Tools : Intellij
+- Tools : VSCODE
 - Language : Dart
+- Framework : Flutter
 - Syncfusion
 
 ### Foldering
