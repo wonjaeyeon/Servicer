@@ -1,6 +1,6 @@
 # SERVICER
 
-<img width="80" src="https://github.com/user-attachments/assets/d96e4a3a-c777-4027-9735-d07f26a15678">
+<img width="80" src="https://github.com/user-attachments/assets/4a8aa476-3606-4444-9fda-2635756ab22e">
 
 2021년 창업 프로젝트에서 진행한 온라인 셀러들을 위한 통합 솔루션 앱 **SERVICER**입니다.(아쉽지만 프로젝트 중단)
 
