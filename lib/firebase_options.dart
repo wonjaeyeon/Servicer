@@ -47,30 +47,30 @@ import 'package:flutter/foundation.dart'
 //   }
 //
 //   static const FirebaseOptions web = FirebaseOptions(
-//     apiKey: 'AIzaSyCZKAQoCk60sfA96Z6h1qCxNLwP-UJyOWs',
-//     appId: '1:438191665824:web:595e4c408539b9a6250fc5',
-//     messagingSenderId: '438191665824',
-//     projectId: 'servicer-app-87829',
-//     authDomain: 'servicer-app-87829.firebaseapp.com',
-//     storageBucket: 'servicer-app-87829.appspot.com',
-//     measurementId: 'G-ECZVD3YPR5',
+//     apiKey: '---------
+//     appId: '--------
+//     messagingSenderId: '---------
+//     projectId: '--------
+//     authDomain: '-------
+//     storageBucket: '-------
+//     measurementId: '-------
 //   );
 //
 //   static const FirebaseOptions android = FirebaseOptions(
-//     apiKey: 'AIzaSyCI_9rLwSJCE9GUhMMzf-fU88PqzSTTIUc',
-//     appId: '1:438191665824:android:ce6e0aac7eba07ab250fc5',
-//     messagingSenderId: '438191665824',
-//     projectId: 'servicer-app-87829',
-//     storageBucket: 'servicer-app-87829.appspot.com',
+//     apiKey: '-----------
+//     appId: '-------
+//     messagingSenderId: '-------
+//     projectId: '-------
+//     storageBucket: '-------
 //   );
 //
 //   static const FirebaseOptions ios = FirebaseOptions(
-//     apiKey: 'AIzaSyCundyKfTLS7C2wQsydY1g5ueUiXM3gYBI',
-//     appId: '1:438191665824:ios:802e6a1fc5a64518250fc5',
-//     messagingSenderId: '438191665824',
-//     projectId: 'servicer-app-87829',
-//     storageBucket: 'servicer-app-87829.appspot.com',
-//     iosClientId: '438191665824-mhq60fur8d95m93a719da2ekv4efrmvf.apps.googleusercontent.com',
-//     iosBundleId: 'com.paulpark.servicer',
+//     apiKey: '-------
+//     appId: '-------
+//     messagingSenderId: '-------
+//     projectId: '-------
+//     storageBucket: '-------
+//     iosClientId: '-------
+//     iosBundleId: '-------
 //   );
 // }
