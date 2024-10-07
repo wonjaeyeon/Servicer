@@ -1,0 +1,25 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-servicerapp-dev-222955-authRole",
+      "UnauthRoleArn": "arn:aws:iam::843452249489:role/amplify-servicerapp-dev-222955-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::843452249489:role/amplify-servicerapp-dev-222955-authRole",
+      "Region": "ap-northeast-2",
+      "DeploymentBucketName": "amplify-servicerapp-dev-222955-deployment",
+      "UnauthRoleName": "amplify-servicerapp-dev-222955-unauthRole",
+      "StackName": "amplify-servicerapp-dev-222955",
+      "StackId": "arn:aws:cloudformation:ap-northeast-2:843452249489:stack/amplify-servicerapp-dev-222955/542c71f0-b447-11ed-ada8-02cba9bd5a1e",
+      "AmplifyAppId": "d22drsren7r0nf"
+    },
+    "categories": {
+      "auth": {
+        "servicerapp501b8d44": {
+          "userPoolId": "ap-northeast-2_IfIH8MI0r",
+          "userPoolName": "servicerUser",
+          "webClientId": "msef48rp6r7r9omoi6rpf0s93",
+          "nativeClientId": "7drfabgjesq1iv8jjr8i1i0bn"
+        }
+      }
+    }
+  }
+}
