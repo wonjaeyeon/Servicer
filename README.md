@@ -33,16 +33,7 @@
 - Framework : Flutter
 - Syncfusion
 
-### Foldering
-```
-.
 
-├── data
-│   ├── qcResults
-│     ├── QCResults
-│     └── QCResultsDAO
-└── ui (for features)
-```
 
 # 프로젝트를 통해 이룬 부분
 - Flutter의 여러 그래프 라이브러리르 다뤄보고 특히 Syncfusion을 적극적으로 활용해봄
